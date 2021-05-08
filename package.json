@@ -18,16 +18,12 @@
     "react-modal": "3.12.1",
     "react-redux": "7.2.4",
     "react-router": "5.2.0",
-<<<<<<< HEAD
     "react-router-dom": "5.2.0",
     "redux": "4.1.0",
     "redux-logger": "3.0.6",
     "redux-thunk": "2.3.0",
-    "validator": "13.5.2"
-=======
     "validator": "13.5.2",
     "web-vitals": "1.1.2"
->>>>>>> 34388a3b2402252b350b4b886f3379f84ce2f389
   },
   "devDependencies": {
     "@babel/core": "7.13.10",
