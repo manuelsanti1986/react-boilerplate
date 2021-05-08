@@ -6,7 +6,6 @@ const Navbar = () => (
         <NavLink className="tablinks" to="/one">
             One
         </NavLink>
-        <td/>
         <NavLink className="tablinks" to="/two">
             Two
         </NavLink>

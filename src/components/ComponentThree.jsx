@@ -6,6 +6,7 @@ import {
     getEarthquakesData,
     getEarthquakesCatalog
 } from "../store/actions/map-actions";
+import Navbar from "./Navbar";
 
 class ComponentThree extends React.Component {
     constructor(props) {
@@ -39,6 +40,7 @@ class ComponentThree extends React.Component {
     render() {
         return (
             <div>
+                <Navbar/>
                 <h1 className={"header__title"}>{this.state.title}</h1>
                 <h2 className={"header__subtitle"}>{this.state.subtitle}</h2>
                 <div className="container">
