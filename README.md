@@ -14,6 +14,10 @@ The following repository contains a start-up point for my React.js projects
 |react-modal|3.12.1|
 |react-router|5.2.0|
 |react-router-dom|5.2.0|
+|redux|4.1.0|
+|redux-logger|3.0.6|
+|redux-thunk|2.3.0|
+|react-redux|7.2.4|
 |validator|13.5.2|
 |node-sass|5.0.0|
 |express|4.17.1|
