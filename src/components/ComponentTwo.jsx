@@ -1,12 +1,12 @@
 import React from 'react';
 
-class ComponentOne extends React.Component {
+class ComponentTwo extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            title: "Component One",
+            title: "Component Two",
             subtitle: "Random Sub-Title",
-            options: ["component one option one", "component one option two", "component one option three"],
+            options: ["component two option one", "component two option two", "component two option three"],
         };
         this.handleTestFunction = this.handleTestFunction.bind(this);
     }
@@ -51,4 +51,4 @@ class ComponentOne extends React.Component {
     }
 }
 
-export default ComponentOne;
+export default ComponentTwo;

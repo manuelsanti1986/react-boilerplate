@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ComponentOne from './components/ComponentOne';
+import App from './App';
 import './styles/styles.scss';
 
-ReactDOM.render(<ComponentOne />, document.getElementById("app"));
+ReactDOM.render(<App />, document.getElementById("app"));
