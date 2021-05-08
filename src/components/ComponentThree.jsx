@@ -32,6 +32,7 @@ class ComponentThree extends React.Component {
     async requestEarthquakeData(){
         console.log('requestEarthquakeData');
         await this.props.getEarthquakesData();
+        console.log('Using Redux DATA: ');
         console.log(this.props.earthquakeData);
     }
 
