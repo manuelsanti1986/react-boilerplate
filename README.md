@@ -13,7 +13,11 @@ The following repository contains a start-up point for my React.js projects
 |react-dom|17.0.1|
 |react-modal|3.12.1|
 |react-router|5.2.0|
+<<<<<<< HEAD
 |react-router-dom|5.2.0|
+=======
+|web-vitals|1.1.2|
+>>>>>>> 34388a3b2402252b350b4b886f3379f84ce2f389
 |validator|13.5.2|
 |node-sass|5.0.0|
 |express|4.17.1|
