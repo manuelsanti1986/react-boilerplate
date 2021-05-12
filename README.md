@@ -23,6 +23,7 @@ The following repository contains a start-up point for my React.js projects
 |validator|13.5.2|
 |node-sass|5.0.0|
 |express|4.17.1|
+|prop-types|15.7.2|
 
 |Development Dependencies|Version|
 |:---|:---|
